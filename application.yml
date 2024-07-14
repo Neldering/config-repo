@@ -8,6 +8,8 @@ eureka:
       
 foo: baz
 
+color: red
+
 ---
 spring:
   config.activate.on-profile: cloud
